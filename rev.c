@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void reverse() {
     int n = 1234, rev = 0, r;
     while(n != 0) {
         r = n % 10;
