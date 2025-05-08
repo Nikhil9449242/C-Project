@@ -3,6 +3,6 @@
 main () {
 
 	biggest3();
-	factorial();
+	checking();
 	palindrom();
 }
