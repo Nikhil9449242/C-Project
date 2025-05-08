@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void factorial() {
     int i, fact = 1, number = 5;
     for(i = 1; i <= number; i++) {
         fact *= i;
