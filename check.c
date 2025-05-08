@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void checkevenodd() {
     int num;
     printf("Enter an integer: ");
     scanf("%d", &num);
