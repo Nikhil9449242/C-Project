@@ -3,6 +3,7 @@
 main () {
 
 	biggest3();
-	checking();
-	palindrom();
+	checkevenodd();
+	factorial();
+	reverse();
 }
